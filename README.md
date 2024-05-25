@@ -93,10 +93,9 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
 
 ## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=ghostshell1947&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ghostshell1947/Templates)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=ghostshell1947&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ghostshell1947/Scripts)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=ghostshell1947&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ghostshell1947/Css)
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=ghostshell1947&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/alsiam)
+[![Templates](https://github-readme-stats.vercel.app/api/pin/?username=ghostshell1947&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ghostshell1947/Templates)
+[![Scripts](https://github-readme-stats.vercel.app/api/pin/?username=ghostshell1947&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ghostshell1947/Scripts)
+[![CSS](https://github-readme-stats.vercel.app/api/pin/?username=ghostshell1947&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ghostshell1947/Css)
 
 <p align="left">
   <a href="https://github.com/ghostshell1947?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
