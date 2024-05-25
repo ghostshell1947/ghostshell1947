@@ -31,7 +31,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Saif+Al+Siam">「 Google Me 」</a>
     <br>
-    「 I am a full stack web appplication developer from <b>Kolkata, West Bengal</b> 」
+    「 I am a freelancer, tech enthusiast with the dream of becoming a professional developer. I love to learn interesting things and play with HTML, CSS, JS. from <b>Kolkata, West Bengal</b> 」
     <br>
     <br>
   </samp>
