@@ -99,7 +99,7 @@
 [![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/alsiam)
 
 <p align="left">
-  <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/ghostshell1947?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 <br/>
@@ -107,14 +107,14 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/alsiam">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  <a href="https://github.com/ghostshell1947">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghostshell1947&theme=radical&border=7F3FBF&background=0D1117" alt="GHOST'S GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/alsiam">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsiam&theme=radical" alt="Al Siam's GitHub Contribution"/>
+  <a href="https://github.com/ghostshell1947">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghostshell1947&theme=radical" alt="GHOST'S GitHub Contribution"/>
   </a>
 </p>
 
