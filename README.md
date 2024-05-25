@@ -1,6 +1,3 @@
-# Templates
-Download Wordpress, Blogger, WooCommerce Themes for free. Check Now.
-
 <!--
 <h2 align="center">
   Welcome to ChaozByte!
